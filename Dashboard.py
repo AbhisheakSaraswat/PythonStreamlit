@@ -4,7 +4,6 @@ import pandas as pd
 import os
 import warnings
 warnings.filterwarnings('ignore')
-print("Abhishek")
 
 st.set_page_config(page_title="Superstore!!!", page_icon=":bar_chart:",layout="wide")
 
